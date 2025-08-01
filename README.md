@@ -31,7 +31,3 @@ Stacked bar chart comparing positive and negative test counts across top states.
 Provides comparative view of COVID test outcomes.
 
 LINK https://public.tableau.com/views/Book1_17540723491080/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-Statewise Positive vs Negative Cases
-Stacked bar chart comparing positive and negative test counts across top states.
-Provides comparative view of COVID test outcome

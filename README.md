@@ -1,4 +1,4 @@
-This Tableau dashboard provides an in-depth visual analysis of COVID-19 trends across India. It combines state-wise and demographic data to deliver insights on case distribution, vaccination rollout, death tolls, gender and age-based impact, and testing capacity across the country.
+This dashboard provides an in-depth visual analysis of COVID-19 trends across India. It combines state-wise and demographic data to deliver insights on case distribution, vaccination rollout, death tolls, gender and age-based impact, and testing capacity across the country.
 
 Key Components
 
@@ -29,5 +29,3 @@ Males account for 66.76% of the reported cases; females for 33.24%.
 Statewise Positive vs Negative Cases
 Stacked bar chart comparing positive and negative test counts across top states.
 Provides comparative view of COVID test outcomes.
-
-LINK https://public.tableau.com/views/Book1_17540723491080/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
